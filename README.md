@@ -30,6 +30,3 @@ the second program is student vs student without algorithm.
 ## Built With
  [Project site](https://github.com/mulugetaf/oopEx4)
  
- Excample of Numbers Game:
- ![ex Computer vs Student](https://github.com/mulugetaf/oopEx4/blob/ee8e938da871daf1ca0185b5246d271ce7db6197/res/CvS.PNG)
- ![ex Student vs Student](https://github.com/mulugetaf/oopEx4/blob/ee8e938da871daf1ca0185b5246d271ce7db6197/res/SvS.PNG)
